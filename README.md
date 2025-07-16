@@ -3,7 +3,7 @@ Before the beginning of this Math Review session, please
 - [set up a GitHub account](https://docs.github.com/en/get-started/start-your-journey/creating-an-account-on-github)
 - [download git](https://git-scm.com/downloads) 
 - [set up an SSH key](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account) (if you are on Windows, run these instructions through Git Bash)
-
+fdffkdjfksdfljlk
 Brynn will be in Clark 271 30 minutes before the beginning of class if you need help with any of these steps
 
 # Demonstration: [how to set up a GitHub repository](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-new-repository) 
