@@ -3,7 +3,7 @@ Before the beginning of this Math Review session, please
 - [set up a GitHub account](https://docs.github.com/en/get-started/start-your-journey/creating-an-account-on-github)
 - [download git](https://git-scm.com/downloads) 
 - [set up an SSH key](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account) (if you are on Windows, run these instructions through Git Bash)
-fdffkdjfksdfljlk
+- Slack message your GitHub username to Brynn and she will add you as a collaborator to the repository 
 Brynn will be in Clark 271 30 minutes before the beginning of class if you need help with any of these steps
 
 # Demonstration: [how to set up a GitHub repository](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-new-repository) 
@@ -60,9 +60,18 @@ git was invented in 2005 by Linus Torvalds to manage the development of Linux. I
    ```   
 10. [Push](https://git-scm.com/docs/git-push)
     ```
-    git push
+    git push --set-upstream origin [branch name] 
     ```
+_What does this command do?_
 
+`push`: pushes the commits on branch [branch name] to the origin/main branch of the repository 
+
+`--set-upstream`: a flag to tell git that the [branch name] currently doesn't exist on the remote, so we need to initiate it there 
+
+`origin`: this means the remote repository 
+11. Open a pull request 
+
+Naviage to the repository on GitHub, you should see a notification that says your branch has changes, navigate to your branch, and then click "open a pull request" 
 # Further Resources
 - WHOI High Performance Compute Cluster (Poseidon)
    - [WHOI IS HPC Guide](https://whoi-it.whoi.edu/resources/) 
