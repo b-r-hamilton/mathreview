@@ -6,6 +6,7 @@ Before the beginning of this Math Review session, please
 
 Brynn will be in Clark 271 30 minutes before the beginning of class if you need help with any of these steps
 
+Reminder: buy one frog
 # Demonstration: [how to set up a GitHub repository](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-new-repository) 
 _follow along, or just watch!_ 
 
