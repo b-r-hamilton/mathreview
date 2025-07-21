@@ -101,3 +101,6 @@ Naviage to the repository on GitHub, you should see a notification that says you
 - Python for geosciences
    - [University of Helsinki Geo-Python Tutorials](https://geo-python-site.readthedocs.io/en/latest/)
    - [Ryan Abernathey's "An Introduction to Earth and Environmental Data Science"](https://earth-env-data-science.github.io/intro.html)
+- File System Organization
+  - [PARA Method]{https://fortelabs.com/blog/para/}
+  - [JohnnyDecimal]{https://johnnydecimal.com/}
